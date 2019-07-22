@@ -9,5 +9,6 @@ class Appointment
   end
   
   def doctor
+    @doctor
   end
 end
