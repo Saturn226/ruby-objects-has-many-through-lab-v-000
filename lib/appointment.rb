@@ -4,6 +4,5 @@ class Appointment
     @date = date
     @doctor = doctor
   end
-  ctor
-  end
+
 end
