@@ -5,7 +5,7 @@ class Appointment
   end
   
   def patient
-    self.patient
+    @patient
   end
   
   def doctor
