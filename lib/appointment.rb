@@ -4,10 +4,6 @@ class Appointment
     @date = date
     @doctor = doctor
   end
-  
-  
-  
-  def doctor
-    @doctor
+  ctor
   end
 end
